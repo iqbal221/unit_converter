@@ -2,6 +2,8 @@
 class AppStrings {
   // ── App-wide ──────────────────────────────────────────────────────────────
 
+  static const String homeTitle = "Select a Unit";
+
   /// Shown in the browser/OS task switcher and the AppBar.
   static const String appTitle = 'Unit Converter';
 

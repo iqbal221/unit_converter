@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:unit_converter/core/app_colors.dart';
 import 'package:unit_converter/core/app_strings.dart';
 import 'package:unit_converter/presentation/provider/converter_provider.dart';
-import 'package:unit_converter/presentation/screens/converter_screen.dart';
+import 'package:unit_converter/presentation/screens/splash_screen.dart';
 
 void main() {
   runApp(
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
           border: OutlineInputBorder(),
         ),
       ),
-      home: const ConverterScreen(),
+      home: const SplashScreen(),
     );
   }
 }
