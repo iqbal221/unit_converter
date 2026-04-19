@@ -1,17 +1,80 @@
-# unit_converter
+# 📱 Unit Converter App
 
-A new Flutter project.
+A simple, fast, and beautifully designed **Unit Converter App** built with Flutter.
 
-## Getting Started
+Convert different units بسهولة with a clean UI and smooth experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🔢 Convert multiple unit categories:
+  - Length
+  - Weight
+  - Temperature
+  - Time
+  - Power
+  - Volume
+  - Speed
+  - Pressure
+  - Area
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ⚡ Real-time conversion
+- 🎯 Accurate calculations
+- 🌙 Dark theme UI
+- 🧩 Clean and minimal design
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshots here
+
+- Home Screen (Unit Selection)
+- Conversion Screen
+- Result View
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material UI
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/unit-converter-app.git
+
+2. Install dependencies
+flutter pub get
+
+3. Run the app
+flutter run
+
+📦 Build APK
+flutter build apk --release
+
+🎯 App Structure
+presentation/ → UI Screens
+widgets/ → Reusable Components
+domain/ → Business Logic
+data/ → Models
+
+🔮 Future Improvements
+📱 Offline history
+⭐ Favorite conversions
+🌐 More unit categories
+🎨 Theme customization
+👨‍💻 Developer
+
+Md Zahed Iqbal
+Flutter Developer 🚀
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
