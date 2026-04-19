@@ -2,7 +2,7 @@
 
 A simple, fast, and beautifully designed **Unit Converter App** built with Flutter.
 
-Convert different units بسهولة with a clean UI and smooth experience.
+Convert different units with a clean UI and smooth experience.
 
 ---
 
@@ -34,10 +34,10 @@ Convert different units بسهولة with a clean UI and smooth experience.
 </p>
 
 ### 🔄 Conversion Screen
-![Conversion Screen](screenshots/conversion.png)
+<p>
+  <img src="https://github.com/iqbal221/unit_converter/blob/main/conversion.png"
+</p>
 
-### ✅ Result View
-![Result View](screenshots/result.png)
 
 ---
 
