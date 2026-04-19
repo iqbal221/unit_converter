@@ -28,11 +28,14 @@ Convert different units بسهولة with a clean UI and smooth experience.
 
 ## 📸 Screenshots
 
-> Add your screenshots here
+### 🏠 Home Screen (Unit Selection)
+![Home Screen](screenshots/home.png)
 
-- Home Screen (Unit Selection)
-- Conversion Screen
-- Result View
+### 🔄 Conversion Screen
+![Conversion Screen](screenshots/conversion.png)
+
+### ✅ Result View
+![Result View](screenshots/result.png)
 
 ---
 
