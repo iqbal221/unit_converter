@@ -29,7 +29,9 @@ Convert different units بسهولة with a clean UI and smooth experience.
 ## 📸 Screenshots
 
 ### 🏠 Home Screen (Unit Selection)
-![Home Screen](screenshots/home.png)
+<p>
+  <img src="https://github.com/iqbal221/unit_converter/blob/main/home.png"
+</p>
 
 ### 🔄 Conversion Screen
 ![Conversion Screen](screenshots/conversion.png)
