@@ -30,17 +30,17 @@ Convert different units with a clean UI and smooth experience.
 
 ### 🏠 Dashboard Screen (Unit Selection)
 <p>
-  <img src="https://github.com/iqbal221/unit_converter/blob/main/home.png"
+  <img src="https://github.com/iqbal221/quick_convert/blob/main/home.png"
 </p>
 
 ### 🏠 Home Screen
 <p>
-  <img src="https://github.com/iqbal221/unit_converter/blob/main/111.png"
+  <img src="https://github.com/iqbal221/quick_convert/blob/main/111.png"
 </p>
 
 ### 🔄 Conversion Screen
 <p>
-  <img src="https://github.com/iqbal221/unit_converter/blob/main/conversion.png"
+  <img src="https://github.com/iqbal221/quick_convert/blob/main/conversion.png"
 </p>
 
 

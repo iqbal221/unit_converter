@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:unit_converter/core/app_colors.dart';
-import 'package:unit_converter/presentation/provider/converter_provider.dart';
-import 'package:unit_converter/presentation/screens/converter_screen.dart';
+import 'package:quick_convert/core/app_colors.dart';
+import 'package:quick_convert/presentation/provider/converter_provider.dart';
+import 'package:quick_convert/presentation/screens/converter_screen.dart';
 
 class CategorySelector extends StatefulWidget {
   const CategorySelector({super.key});

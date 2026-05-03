@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/domain/entities/unit_category.dart';
+import 'package:quick_convert/domain/entities/unit_category.dart';
 
 class UnitCategoryModel extends UnitCategory {
   UnitCategoryModel({

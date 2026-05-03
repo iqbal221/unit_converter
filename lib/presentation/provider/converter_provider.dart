@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/core/app_strings.dart';
-import 'package:unit_converter/data/model/unit_category_model.dart';
-import 'package:unit_converter/domain/entities/unit_category.dart';
+import 'package:quick_convert/core/app_strings.dart';
+import 'package:quick_convert/data/model/unit_category_model.dart';
+import 'package:quick_convert/domain/entities/unit_category.dart';
 
 class ConverterProvider extends ChangeNotifier {
   final List<UnitCategory> _categories = UnitCategoryModel.allCategories;

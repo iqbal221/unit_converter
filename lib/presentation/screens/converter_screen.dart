@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:unit_converter/core/app_colors.dart';
-import 'package:unit_converter/core/app_strings.dart';
-import 'package:unit_converter/presentation/provider/converter_provider.dart';
-import 'package:unit_converter/presentation/widgets/category_selector.dart';
-import 'package:unit_converter/presentation/widgets/input_field.dart';
-import 'package:unit_converter/presentation/widgets/result_card.dart';
-import 'package:unit_converter/presentation/widgets/unit_drop_down.dart';
+import 'package:quick_convert/core/app_colors.dart';
+import 'package:quick_convert/core/app_strings.dart';
+import 'package:quick_convert/presentation/provider/converter_provider.dart';
+import 'package:quick_convert/presentation/widgets/category_selector.dart';
+import 'package:quick_convert/presentation/widgets/input_field.dart';
+import 'package:quick_convert/presentation/widgets/result_card.dart';
+import 'package:quick_convert/presentation/widgets/unit_drop_down.dart';
 
 class ConverterScreen extends StatefulWidget {
   const ConverterScreen({super.key});

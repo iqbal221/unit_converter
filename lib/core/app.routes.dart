@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/presentation/screens/converter_screen.dart';
+import 'package:quick_convert/presentation/screens/converter_screen.dart';
 
 class AppRoutes {
   static Route<dynamic> routes(RouteSettings settings) {

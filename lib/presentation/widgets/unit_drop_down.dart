@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/core/app_colors.dart';
+import 'package:quick_convert/core/app_colors.dart';
 
 class UnitDropdown extends StatelessWidget {
   const UnitDropdown({
